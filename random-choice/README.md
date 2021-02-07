@@ -5,5 +5,7 @@ From the result:
 
 The bestInCache can be regarded as bestOfNRandom, and N is max. 
 
+The RandomAlgorithm can be regarded as bestOf1Random.
+
 So the larger the N, the more herd effects, the lower when small cache expire time, the higher when large cache expire time.
 
